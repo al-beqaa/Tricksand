@@ -1,1 +1,1 @@
-execute as @a at @s if block ~ ~-1 ~ #tricksand:natural_falling_blocks if block ~ ~-2 ~ #tricksand:air run clone ~ ~-1 ~ ~ ~-1 ~ ~ ~-1 ~ replace move
+execute as @a at @s if block ~ ~-1 ~ #tricksand:natural_falling_blocks if block ~ ~-2 ~ #tricksand:invalid_support run clone ~ ~-1 ~ ~ ~-1 ~ ~ ~-1 ~ replace move
