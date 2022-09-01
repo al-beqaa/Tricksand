@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 9,
-        "description": "it do be tricky tho"
+        "pack_format": 10,
+        "description": "Changes suspended floating blocks to update when a player steps on them"
     }
 }
